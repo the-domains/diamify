@@ -1,0 +1,14 @@
+layout_spectrum: 0.15091962809674442
+typography_spectrum: 0.05181039939634502
+color:
+  brandStrength: 0.060240629594773054
+  lightness: 0.8969843504019082
+  saturation: 0.4335498090367764
+  rhythmicContrast: 0.11673354730010033
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Diamify
