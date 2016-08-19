@@ -1,3 +1,4 @@
+layout_spectrum: 0.15091962809674442
 typography_spectrum: 0.05181039939634502
 color:
   brandStrength: 0.060240629594773054
@@ -10,11 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.15091962809674442
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7301fbf7-f30d-47a6-87e0-36af3bb35221.png
 name: Diamify
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d9dd420-e518-4e14-b463-dc46e682e03e.png
-title: 'Any Diamond , Our Promise'
-description: Since 2014
